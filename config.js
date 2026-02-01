@@ -50,7 +50,7 @@ const CONFIG = {
     // Messages that appear after they say "Yes!"
     celebration: {
         title: "TYSM GORGEOUSSSS",
-        message: "I love u so much and I cant wait till we are together on our anniversary and valentines day 🥹",
+        message: "IK HOU VAN JOUUUU🥹",
         emojis: "💖💝💋❤️💕"  // These will bounce around
     },
 
